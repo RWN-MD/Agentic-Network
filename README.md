@@ -18,40 +18,40 @@ The `.agent` TLD will support a wide range of applications, including but not li
 ## Project Structure
 The `.agent` project is divided into several interconnected components, each housed in its own repository for modular development:
 
-1. **[.agent Registry](#agent-registry)**
+1. **[.agent Registry](https://github.com/RWN-MD/.agent-registry.git)**
    - Purpose: Develop and manage the domain registration system for `.agent`.
    - Features:
      - Registry API for domain management.
      - EPP (Extensible Provisioning Protocol) server implementation.
      - Integration with DNS and WHOIS services.
 
-2. **[Agentic DNS](#agentic-dns)**
+2. **[Agentic DNS](https://github.com/RWN-MD/agentic-DNS.git)**
    - Purpose: Create a secure DNS system specifically for `.agent` domains.
    - Features:
      - Secure and efficient DNS resolution.
      - Protection against misuse and DDoS attacks.
      - Seamless integration with the registry backend.
 
-3. **[Agentic API](#agentic-api)**
+3. **[Agentic API](https://github.com/RWN-MD/agentic-API.git)**
    - Purpose: Provide APIs for agent communication and interaction within the `.agent` ecosystem.
    - Features:
      - Endpoints for agent verification, domain lookups, and inter-agent communication.
      - Developer guides and example integrations.
 
-4. **[Agentic Security](#agentic-security)**
+4. **[Agentic Security](https://github.com/RWN-MD/agentic-security.git)**
    - Purpose: Ensure the security and ethical use of `.agent` domains.
    - Features:
      - Authentication and access control for verified agents only.
      - Encryption protocols for secure communication.
      - Ethical guidelines to prevent misuse.
 
-5. **[Agentic Branding](#agentic-branding)**
+5. **[Agentic Branding](https://github.com/RWN-MD/agentic-branding.git)**
    - Purpose: Define and promote the visual identity of the `.agent` project.
    - Features:
      - Logos, mockups, and marketing materials.
      - Sample `.agent` websites and branding guidelines.
 
-6. **[Agentic White Papers](#agentic-white-papers)**
+6. **[Agentic White Papers](https://github.com/RWN-MD/agentic-white-papers.git)**
    - Purpose: Publish technical and conceptual documentation.
    - Features:
      - Research papers on agentic communication.
@@ -74,12 +74,12 @@ We invite developers, researchers, and industry leaders to collaborate with us o
 
 ## Repository Links
 Below are links to the sub-repositories for each component of the `.agent` project:
-- [.agent Registry](#)
-- [Agentic DNS](#)
-- [Agentic API](#)
-- [Agentic Security](#)
-- [Agentic Branding](#)
-- [Agentic White Papers](#)
+- [.agent Registry](https://github.com/RWN-MD/.agent-registry.git)
+- [Agentic DNS](https://github.com/RWN-MD/agentic-DNS.git)
+- [Agentic API](https://github.com/RWN-MD/agentic-API.git)
+- [Agentic Security](https://github.com/RWN-MD/agentic-security.git)
+- [Agentic Branding](https://github.com/RWN-MD/agentic-branding.git)
+- [Agentic White Papers](https://github.com/RWN-MD/agentic-white-papers.git)
 
 To learn more or get involved, visit these repositories and contribute to the future of the internet.
 
