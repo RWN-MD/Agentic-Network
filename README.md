@@ -1,4 +1,4 @@
-# .agent Project Overview
+# Project Overview
 
 ## Introduction
 The `.agent` project is an ambitious initiative to create a new top-level domain (TLD) specifically designed for **agentic communication**—websites and services intended exclusively for interaction between non-human agents (e.g., AI systems, bots, IoT devices). By establishing `.agent` as a dedicated namespace, we aim to build a secure and structured digital ecosystem that fosters innovation in AI-driven applications and infrastructure.
