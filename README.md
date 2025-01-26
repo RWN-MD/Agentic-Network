@@ -7,7 +7,7 @@ The `.agent` project is an ambitious initiative to create a new top-level domain
 As artificial intelligence continues to reshape industries, there is a growing need for dedicated spaces on the internet where machine-to-machine communication can occur efficiently, securely, and without interference from human-oriented content. The `.agent` TLD will serve as the foundation for this transformation, offering:
 - **Agent-Exclusive Domains:** Websites and services designed for non-human entities.
 - **Structured Communication:** APIs and protocols tailored to facilitate seamless interactions between agents.
-- **Enhanced Security:** Measures to prevent human misuse and ensure trust in the ecosystem.
+- **Enhanced Security:** Measures to prevent misuse and ensure trust in the ecosystem.
 
 ## Use Cases
 The `.agent` TLD will support a wide range of applications, including but not limited to:
